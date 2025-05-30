@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ginipet/static/css/main.edbd5efa.css",
+    "main.js": "/ginipet/static/js/main.b48dcd9c.js",
+    "index.html": "/ginipet/index.html",
+    "main.edbd5efa.css.map": "/ginipet/static/css/main.edbd5efa.css.map",
+    "main.b48dcd9c.js.map": "/ginipet/static/js/main.b48dcd9c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.edbd5efa.css",
+    "static/js/main.b48dcd9c.js"
+  ]
+}
